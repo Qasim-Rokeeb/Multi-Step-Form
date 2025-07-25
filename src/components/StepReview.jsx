@@ -13,10 +13,10 @@ export default function StepReview({ values, onBack, onReset }) {
 
       <div className="flex gap-3 pt-4">
         <button onClick={onBack} className="btn-secondary flex-1">
-          Back
+          Previous
         </button>
         <button onClick={onReset} className="btn-primary flex-1">
-          Submit & Reset
+          Reset & Submit
         </button>
       </div>
     </div>
