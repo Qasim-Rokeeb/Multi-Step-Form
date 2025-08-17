@@ -16,7 +16,7 @@ export default function StepProfile({ defaultValues, onNext }) {
         <p className="error">{formState.errors.name?.message}</p>
       </div>
       <div>
-        <label>Email</label>
+        <label>Email </label>
         <input
           {...register("email", {
             required: "Email required",

@@ -20,8 +20,6 @@ I built a 3-step "Portfolio Application" form that includes:
 ✔️ How to manage multi-step form flow  
 ✔️ Validating input fields with `react-hook-form`  
 ✔️ Storing and retrieving form state using `localStorage`  
-✔️ Building reusable and styled form components  
-✔️ Tailwind tricks for clean UI and responsive forms  
 ✔️ Creating step indicators with icons and active status  
 ✔️ Ensuring accessibility and visibility in both light and dark themes  
 
