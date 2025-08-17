@@ -22,7 +22,7 @@ export default function StepProfile({ defaultValues, onNext }) {
             required: "Email required",
             pattern: { value: /^\S+@\S+$/i, message: "Invalid email" },
           })}
-          className="input"
+          className="input" placeholder="Add email address"
         />
         <p className="error">{formState.errors.email?.message}</p>
       </div>
