@@ -8,7 +8,7 @@ export default function StepProfile({ defaultValues, onNext }) {
   return (
     <form onSubmit={handleSubmit(onNext)} className="space-y-4">
       <div>
-        <label>Name</label>
+        <label>Name (*Surname First))</label>
         <input
           {...register("name", { required: "Name is required" })}
           className="input"
