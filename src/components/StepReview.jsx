@@ -16,7 +16,7 @@ export default function StepReview({ values, onBack, onReset }) {
           Previous
         </button>
         <button onClick={onReset} className="btn-primary flex-1">
-          Reset & Submit
+          Reset & Submit 
         </button>
       </div>
     </div>

@@ -60,13 +60,7 @@ This project is deployed on [Vercel](https://vercel.com/) — [Live Link](https:
 
 ---
 
-## 🔮 What's Next?
 
-Tomorrow (Day 11), I’ll build a **Quote Generator App** that fetches random quotes from an API, displays them beautifully, and adds animations + a clipboard copy feature.
-
-Stay tuned!
-
----
 
 ## 🙋‍♂️ About Me
 
